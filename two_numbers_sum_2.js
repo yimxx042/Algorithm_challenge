@@ -1,4 +1,4 @@
-//Algorithm challenge #1_2 another solution 
+//Algorithm challenge #2 another solution 
 
 function twoNumberSum(array, targetSum) {
     const nums = {};
